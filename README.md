@@ -1,25 +1,32 @@
 Screening Test Solutions – Rachapalli Jagadesh
-Position: Full Stack Developer – TANDEMLOOP
-Language Used: Python
+
+Position: Full Stack Developer – TANDEMLOOP 
+
+Language Used: Python 👩‍💻
 
 This repository contains solutions for the 4 programming questions provided in the screening test.
 
-Files
-Problem-1.py → Calculator using class  
+Files  📚
 
-Problem-2.py → Generate first a  odd numbers  
+Problem1.py → Calculator using class.  
 
-Problem-3.py → Odd number pattern based on parity  
+Problem2.py → Generate first a  odd numbers.
 
-Problem-4.py → Count multiples of 1–9 in a list  
+Problem3.py → Odd number pattern based on parity.
 
-How to Run
+Problem4.py → Count multiples of 1–9 in a list.  
+
+How to Run 💻
+
 Run each file using Python:
 
-python Problem-1.py
-python Problem-2.py
-python Problem-3.py
-python Problem-4.py
+python Problem1.py
+
+python Problem2.py
+
+python Problem3.py
+
+python Problem4.py
 
 
 Contact :
